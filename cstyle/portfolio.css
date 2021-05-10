@@ -1,0 +1,49 @@
+
+.lista {
+text-align: center;
+font-size: 40px;
+padding: 50px;
+margin: px;
+background: linear-gradient(to bottom left, orange 50%, white 50%);
+//rgb(8,255,16);
+
+}
+.gallery{
+
+  flex-wrap: wrap;
+  flex: 200px;
+}
+.move{
+  font-family: sans-serif;
+  color: black;
+  position: relative;
+  top: -30px;
+  left: -150px;
+  z-index: 2;
+}
+img {
+  width: 20%;
+  height: auto;
+  margin:15px 5px 10px 5px;
+
+  border: 1px solid;
+}
+span{
+  color:  orange;
+}
+.unorg,li{
+   text-shadow: 2px 2px 4px black;
+list-style: none;
+display: inline;
+color: white;
+margin: 20px;
+padding: 20px;
+}
+a
+{
+
+  color: inherit;
+}
+body{
+  background: black;
+}

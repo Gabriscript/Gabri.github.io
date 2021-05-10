@@ -1,0 +1,34 @@
+
+.titolo{
+  font-size: 80px ;
+  text-align: right;
+  margin: 20px;
+  padding-left:  20px;
+  color: orange;
+   text-shadow: 2px 2px 4px black;
+}
+
+.lista {
+text-align: left;
+font-size: 40px;
+padding: 0px;
+margin: 80px;
+color: orange;
+ text-shadow: 2px 2px 4px black;
+}
+.unorg{
+list-style: none;
+}
+.unorg2{
+  text-align: right;
+  padding-top: 100px;
+  position: relative;
+  font-size: 30px;
+   text-shadow: 2px 2px 4px black;
+
+}
+a { color: inherit;}
+body{
+  background:center/cover no-repeat url(IMG_2699.jpeg) ;
+  position: relative;
+}

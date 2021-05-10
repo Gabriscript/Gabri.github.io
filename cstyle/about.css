@@ -1,0 +1,61 @@
+.albe
+{
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+  float: left;
+
+}
+.cont{
+  width: 50px;
+  height: auto;
+  border-radius: 50px;
+}
+/*body{
+background:center/cover no-repeat url("../albertofoto/14042021-IMG_4086_ig.jpg") ;
+position: relative;
+}*/
+li{display: inline;
+   text-align: center;
+padding: 20px;}
+p{
+ font-size:20px;
+text-align: center;
+
+}
+h1{
+  font-size: 80px;
+}
+.paragrafo{
+  margin:50px 100px 0px 900px;
+
+
+  background-color:  ;
+  text-align: right;
+
+}
+.mezzo{
+  width: 500px;
+  height: auto;
+  position: absolute;
+  top: 180px;
+  left: 250px;
+}
+
+.lista {
+  background-color: black;
+
+  text-align: center;
+   text-shadow: 2px 2px 4px black;
+font-size: 30px;
+padding: 5px 0px 5px 0px;
+margin: 10px 60px 10px 60px;
+color: white;
+}
+.unorg{
+list-style: none;
+}
+a{
+  color: inherit;
+  padding: 40px;
+}
